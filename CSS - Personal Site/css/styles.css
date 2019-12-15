@@ -43,3 +43,20 @@ body {
 .top-h2 {
   font-weight: normal;
 }
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.dad-img {
+  width: 25%;
+  border-radius: 10%;
+}
+
+.guitar-img {
+  width: 25%;
+  border-radius: 10%;
+}
