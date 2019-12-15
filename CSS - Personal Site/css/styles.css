@@ -54,9 +54,11 @@ body {
 .dad-img {
   width: 25%;
   border-radius: 10%;
+  float: left;
 }
 
 .guitar-img {
   width: 25%;
   border-radius: 10%;
+  float: left;
 }
