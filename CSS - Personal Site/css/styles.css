@@ -78,6 +78,12 @@ hr {
   margin-left: 30px;
 }
 
+.contact-me {
+  text-align: center;
+  position: relative;
+  margin: auto 75px 75px 150px;
+}
+
 .myButton {
 	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
 	background-color:#599bb3;
@@ -102,8 +108,8 @@ hr {
 }
 
 .btn {
-  position: aboslute;
-
+  position: relative;
+  bottom: 50px;
 }
 
 
