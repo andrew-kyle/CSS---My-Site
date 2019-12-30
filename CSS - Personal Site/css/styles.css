@@ -137,27 +137,15 @@ hr {
 }
 
 
-.footer-link1{
-  position: absolute;
-  top: 20px;
-  left: 800px;
+.a {
   color: #11999E;
+  font-family: montserrat, sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
 }
 
-.footer-link2{
-  position: absolute;
-  top: 20px;
-  right: 850px;
-  left: 860px;
-  color: #11999E;
-}
-
-.footer-link3{
-  position: absolute;
-  top: 20px;
-  right: 800px;
-
-  color: #11999E;
+a:hover {
+  color: #EAF6F6;
 }
 
 .copyright {
